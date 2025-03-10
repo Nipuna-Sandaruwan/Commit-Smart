@@ -55,3 +55,6 @@ docs(README): update setup instructions for Next.js frontend
 ✅ Use the scope (in parentheses) to specify the affected part of the project.  
 
 By following semantic commit messages, you’ll maintain a clean and understandable Git history, making collaboration and project management much smoother. 🚀            write this with simple htmal and css so i can use  
+
+If u ever face this error after pushing to master or any other branch which is not main " "
+Do as this image and it will resolve ![image](https://github.com/user-attachments/assets/There isn’t anything to compare. main and master are entirely different commit histories.dc3e530d-c722-4a55-a6d5-7ad2a71a241a)
