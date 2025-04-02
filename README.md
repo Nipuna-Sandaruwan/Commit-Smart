@@ -95,7 +95,7 @@ docs(readme): update installation instructions
 ✅ **Use the imperative mood** (e.g., "add" instead of "added").  
 ✅ **Keep messages concise but informative**.  
 ✅ **Include a body** if additional explanation is needed.  
-✅ **Use the scope (in parentheses)** to specify the affected part of the project.  
+✅ **Use the scope (in parentheses)** to specify the affected part of the project..  
 
 ---
 
